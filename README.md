@@ -2,7 +2,8 @@
 
 ## Ressources
 - [Elm website](http://elm-lang.org/)
-- [Officail guide](https://guide.elm-lang.org/install.html)
+- [Elm guide](https://guide.elm-lang.org/install.html)
+- [Elm blog](http://elm-lang.org/blog/)
 
 ## Courses
 ### EggHead.io
@@ -12,3 +13,4 @@
 ## Articles
 - [After React: Elm?](https://medium.com/wraptime-io/after-react-elm-152bd6559cb1)
 - [Reddit](https://www.reddit.com/r/javascript/comments/2z5lci/why_are_people_using_react_over_elm/)
+- [How to use Elm at work](http://elm-lang.org/blog/how-to-use-elm-at-work)
