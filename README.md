@@ -5,8 +5,9 @@
 - [Officail guide](https://guide.elm-lang.org/install.html)
 
 ## Courses
-- [EggHead: Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
-- [EggHead: ELM LESSONS](https://egghead.io/technologies/elm)
+### EggHead.io
+- [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
+- [ELM LESSONS](https://egghead.io/technologies/elm)
 
 ## Articles
 - [After React: Elm?](https://medium.com/wraptime-io/after-react-elm-152bd6559cb1)
