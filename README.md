@@ -7,6 +7,7 @@
 - [Elm guide](https://guide.elm-lang.org/install.html)
 - [Elm blog](http://elm-lang.org/blog/)
 - [Elm online editor](http://elm-lang.org/try)
+- [Elm packages](http://package.elm-lang.org/)
 
 ### EggHead.io
 - [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
