@@ -22,3 +22,4 @@
 
 ### Github
 - [How to create modular Elm code that scales nicely with your app](https://github.com/evancz/elm-architecture-tutorial/)
+- [Elm GraphQL](https://github.com/jahewson/elm-graphql)
